@@ -39,7 +39,7 @@ To send a file to a remote machine:
 2. Select the file(s) on the local machine to send
 3. Wait for the coprocess indicator to disappear
 
-The receive a file from a remote machine
+To receive a file from a remote machine
 
 1. Type `sz filename1 filename2 … filenameN` on the remote machine
 2. Select the folder to receive to on the local machine
